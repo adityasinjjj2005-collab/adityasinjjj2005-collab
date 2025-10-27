@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img width="400"  alt="coding" src="https://github.com/user-attachments/assets/2117c8f2-3fa1-4d6b-8e1d-bb49f2ab1c70" />
+<img align="right" width="400"  alt="coding" src="https://github.com/user-attachments/assets/2117c8f2-3fa1-4d6b-8e1d-bb49f2ab1c70" />
 
 
 
